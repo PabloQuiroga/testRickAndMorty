@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="alternative">#FF73e8ff</color>
     <color name="primary">#FF29b6f6</color>
     <color name="secondary">#FF0086c3</color>
     <color name="teal_200">#FF03DAC5</color>
